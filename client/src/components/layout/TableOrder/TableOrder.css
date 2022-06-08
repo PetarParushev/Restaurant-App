@@ -1,0 +1,12 @@
+
+.category {
+    border: 1px solid red;
+}
+
+
+.back {
+    width: 150px;
+    height: 35px;
+    border: 1px solid green;
+    margin-right: 15px;
+}

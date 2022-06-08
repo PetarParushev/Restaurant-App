@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.h-100 {
+  height: 100%;
+}
+.MuiBackdrop-root {
+  background-color: transparent !important;
+}
+.MuiListItemIcon-root {
+  color: #ffffff !important;
+}
+.color-white {
+  color: #ffffff;
+}
+.color-grey { 
+  color: #707070;
+}
+.bg-white {
+  background-color: #fff;
+}
+.d-flex {
+  display: flex;
+}
+.d-none {
+  display: none !important;
+}
+.mt-5 {
+  margin-top:3rem;
+}
+.input-error {
+  color: #bf1650;
+}
+
+.input-error::before {
+  display: inline;
+  content: "⚠ ";
+}
